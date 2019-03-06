@@ -1,7 +1,0 @@
-name="marmalade"
-url="https://1drv.ms/u/s!ApWlnXCfLfe-p6JdF9VGnclOA451dw"
-img="https://1drv.ms/u/s!ApWlnXCfLfe-p6JFnYr_TAa5PlChYw"
-fanart="https://1drv.ms/u/s!ApWlnXCfLfe-p6JDDivqwrfAl2tdtg"
-description="Marmalade Pimped By Mozzy616 For Kodi Krypton 17.6"
-version="1.0"
-
